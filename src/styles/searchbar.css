@@ -1,0 +1,21 @@
+.search-input {
+    width: 350px;
+    height: 25px;
+    margin-top: 10px;
+}
+
+.search-result {
+    text-align: start;
+    margin-top: 5px;
+}
+
+.search-component {
+    width: max-content;
+    align-items : center;
+    margin-left: 10px;
+}
+
+.clear-button {
+    padding: 3px 3px;
+    width: 55px;
+}
